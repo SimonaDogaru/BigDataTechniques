@@ -22,19 +22,6 @@ This repository contains my solutions to several **Big Data Techniques** labs fr
 - **Lab 13 – Streaming Data Processing**  
   Simple streaming examples using sliding/tumbling windows and sampling: running averages, bit‑to‑integer conversion, word counting, and basic convolution filters.
 
-## How to Run
-
-```bash
-git clone https://github.com/SimonaDogaru/BigDataTechniques.git
-cd BigDataTechniques
-
-# Example
-cd Lab09_KMeans_PCA
-python kmeans.py
-```
-
-Adjust the folder and script names according to the structure of your repository.
-
 ## Tech Stack
 
 - Python 3.x
